@@ -1,0 +1,9 @@
+/prwale
+*.test
+.DS_Store
+coverage.out
+*.prof
+/prwale-preview/
+.env
+.env.*
+!.env.example
